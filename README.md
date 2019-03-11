@@ -1,1 +1,2 @@
-# ClusterSourceFunction
+# Cluster Source Function
+This Python class acts as a toolbox that allows the user to automate the computation of quantities obtained through the topological analysis of electron densities. Requires Gamess-US and MultiWFN to work.
